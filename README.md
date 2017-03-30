@@ -16,4 +16,4 @@ Your app must:
 
 ## Bonus:
 
-Once you meet the above requirements, bring your app to life with some professional, sleek design. For ideas, you may want to revisit the [Mad Lib Form Lab](https://github.com/den-wdi-2/css-html-forms-lab).
+Once you meet the above requirements, bring your app to life with some professional, sleek design. For ideas, you may want to revisit the [Mad Lib Form Lab](https://github.com/den-materials/css-html-forms-lab).
