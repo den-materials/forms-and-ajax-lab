@@ -7,7 +7,7 @@ For this lab, your task is to create a search page for a web API of your choosin
 Your app must:
 
 1. Use a 3rd party API.
-  - For ideas, you can go to the [Programmable Web API Directory](http://www.programmableweb.com/apis/directory).
+  - For ideas, you can go to the [Public API Directory](http://public.apis.zone/). Consider filtering by Auth = no.
 2. Use forms to input queries to be sent to the 3rd party API.
   - You should have at least three input fields, with at least two different input types.
 3. Use `preventDefault()`.
