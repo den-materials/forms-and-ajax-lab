@@ -1,6 +1,6 @@
 # Build Your Own Search Engine
 
-For this lab, your task is to create a search page for a web API of your choosing. Think [Cat Rescue](https://github.com/den-wdi-2/js-ajax-lab) on steroids. Choose an API that you would be really excited to play with, and make your page as user-friendly as possible. There is no starter code for this lab, so the most important piece will be breaking it down into small, testable parts. You may also want to mock up your page design and whiteboard your approach to problems.
+For this lab, your task is to create a search page for a web API of your choosing.  Choose an API that you would be really excited to play with, and make your page as user-friendly as possible. There is no starter code for this lab, so the most important piece will be breaking it down into small, testable parts. You may also want to mock up your page design and whiteboard your approach to problems.
 
 ## Requirements:
 
